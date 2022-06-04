@@ -1,0 +1,11 @@
+http:
+  port: "8081"
+  path: "secure-prop"
+db:
+  host: "localhost"
+  port: "1521"
+  user: "system-dev"
+  password: "![wHvLVh46zboeTMrxkhwa8Q==]"
+  
+message : "welcome to"
+  
