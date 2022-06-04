@@ -1,0 +1,10 @@
+http:
+  port: "8081"
+  path: "prop"
+db:
+  host: "localhost"
+  port: "1521"
+  user: "system-test"
+  password: "dev"
+  
+message : "hellow world"
